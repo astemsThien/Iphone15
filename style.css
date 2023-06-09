@@ -361,14 +361,14 @@ body{
 }
 
 .content .text:before{
-    content: "MusicArtistName";
+    content: "DevThien";
     order: 1;
     text-transform: uppercase;
 }
 
 .content .text:after{
     order: 2;
-    content: "MusicName";
+    content: "Nguyễn Thanh Thien";
     opacity: 0.5;
 }
 
